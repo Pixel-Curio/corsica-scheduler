@@ -1,0 +1,19 @@
+{
+    "name": "corsica-scheduler",
+    "version": "0.1.0",
+    "description": "Plugin that allows individual screens to run by a set schedule, running specific commands during specified times.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Pixel-Curio/corisca-scheduler.git"
+    },
+    "keywords": [
+      "corsica", "scheduler", "plugin", "plugins"
+    ],
+    "author": "Pixel-Curio <michael@pixel-cur.io>",
+    "license": "MPL2",
+    "bugs": {
+      "url": "https://github.com/Pixel-Curio/corisca-scheduler/issues"
+    },
+    "homepage": "https://github.com/Pixel-Curio/corisca-scheduler"
+  }
